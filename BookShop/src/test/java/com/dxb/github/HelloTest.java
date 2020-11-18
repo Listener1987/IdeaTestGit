@@ -2,7 +2,7 @@ package com.dxb.github;
 
 import org.junit.Test;
 
-public class TestJava {
+public class HelloTest {
     @Test
     public void testHello(){
         Hellogit hello = new Hellogit();
